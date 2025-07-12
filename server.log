@@ -1,0 +1,645 @@
+[2025-06-02 16:22:38] Server listening on port 9090
+[2025-06-02 16:22:41] Received client's DH public key and established shared secret with 127.0.0.1:62016
+[2025-06-02 16:22:41] Sent server's DH public key to 127.0.0.1:62016
+[2025-06-02 16:22:41] Received IV from 127.0.0.1:62016
+[2025-06-02 16:22:41] Sent authentication challenge to 127.0.0.1:62016
+[2025-06-02 16:22:41] Two-way authentication successful for 127.0.0.1:62016. Awaiting credentials.
+[2025-06-02 16:22:49] Loaded public keys for user: eren
+[2025-06-02 16:22:49] User signed in: eren from 127.0.0.1:62016
+[2025-06-02 16:22:49] Sent key bundle for ceren to eren
+[2025-06-02 16:22:49] Sent key bundle for hilal to eren
+[2025-06-02 16:22:49] Decryption failed for message from 127.0.0.1:62016
+[2025-06-02 16:22:49] GREETING from eren
+[2025-06-02 16:23:50] Server listening on port 9090
+[2025-06-02 16:23:52] Received client's DH public key and established shared secret with 127.0.0.1:49509
+[2025-06-02 16:23:52] Sent server's DH public key to 127.0.0.1:49509
+[2025-06-02 16:23:52] Received IV from 127.0.0.1:49509
+[2025-06-02 16:23:52] Sent authentication challenge to 127.0.0.1:49509
+[2025-06-02 16:23:52] Two-way authentication successful for 127.0.0.1:49509. Awaiting credentials.
+[2025-06-02 16:23:57] SIGNIN FAIL (no such user): eren
+[2025-06-02 16:24:04] User signed up: eren from 127.0.0.1:49509
+[2025-06-02 16:24:04] Decryption failed for message from 127.0.0.1:49509
+[2025-06-02 16:24:04] GREETING from eren
+[2025-06-02 16:24:22] Received client's DH public key and established shared secret with 127.0.0.1:52874
+[2025-06-02 16:24:22] Sent server's DH public key to 127.0.0.1:52874
+[2025-06-02 16:24:22] Received IV from 127.0.0.1:52874
+[2025-06-02 16:24:22] Sent authentication challenge to 127.0.0.1:52874
+[2025-06-02 16:24:22] Two-way authentication successful for 127.0.0.1:52874. Awaiting credentials.
+[2025-06-02 16:24:30] User signed up: hilal from 127.0.0.1:52874
+[2025-06-02 16:24:30] Decryption failed for message from 127.0.0.1:52874
+[2025-06-02 16:24:30] GREETING from hilal
+[2025-06-02 16:24:34] Received client's DH public key and established shared secret with 127.0.0.1:60979
+[2025-06-02 16:24:34] Sent server's DH public key to 127.0.0.1:60979
+[2025-06-02 16:24:34] Received IV from 127.0.0.1:60979
+[2025-06-02 16:24:34] Sent authentication challenge to 127.0.0.1:60979
+[2025-06-02 16:24:34] Two-way authentication successful for 127.0.0.1:60979. Awaiting credentials.
+[2025-06-02 16:24:41] User signed up: ceren from 127.0.0.1:60979
+[2025-06-02 16:24:41] Decryption failed for message from 127.0.0.1:60979
+[2025-06-02 16:24:41] GREETING from ceren
+[2025-06-02 16:24:43] Broadcast sent from hilal: hi
+[2025-06-02 16:26:03] Server listening on port 9090
+[2025-06-02 16:26:06] Received client's DH public key and established shared secret with 127.0.0.1:59702
+[2025-06-02 16:26:06] Sent server's DH public key to 127.0.0.1:59702
+[2025-06-02 16:26:06] Received IV from 127.0.0.1:59702
+[2025-06-02 16:26:06] Sent authentication challenge to 127.0.0.1:59702
+[2025-06-02 16:26:06] Two-way authentication successful for 127.0.0.1:59702. Awaiting credentials.
+[2025-06-02 16:26:10] User signed in: eren from 127.0.0.1:59702
+[2025-06-02 16:26:10] Decryption failed for message from 127.0.0.1:59702
+[2025-06-02 16:26:10] GREETING from eren
+[2025-06-02 16:26:27] Received client's DH public key and established shared secret with 127.0.0.1:64984
+[2025-06-02 16:26:27] Sent server's DH public key to 127.0.0.1:64984
+[2025-06-02 16:26:27] Received IV from 127.0.0.1:64984
+[2025-06-02 16:26:27] Sent authentication challenge to 127.0.0.1:64984
+[2025-06-02 16:26:27] Two-way authentication successful for 127.0.0.1:64984. Awaiting credentials.
+[2025-06-02 16:26:31] User signed in: hilal from 127.0.0.1:64984
+[2025-06-02 16:26:31] Decryption failed for message from 127.0.0.1:64984
+[2025-06-02 16:26:31] GREETING from hilal
+[2025-06-02 16:26:33] Broadcast sent from hilal: hi
+[2025-06-02 16:28:21] Server listening on port 9090
+[2025-06-02 16:28:23] Received client's DH public key and established shared secret with 127.0.0.1:54554
+[2025-06-02 16:28:23] Sent server's DH public key to 127.0.0.1:54554
+[2025-06-02 16:28:23] Received IV from 127.0.0.1:54554
+[2025-06-02 16:28:23] Sent authentication challenge to 127.0.0.1:54554
+[2025-06-02 16:28:23] Two-way authentication successful for 127.0.0.1:54554. Awaiting credentials.
+[2025-06-02 16:28:27] User signed in: eren from 127.0.0.1:54554
+[2025-06-02 16:28:27] Decryption failed for message from 127.0.0.1:54554
+[2025-06-02 16:28:27] GREETING from eren
+[2025-06-02 16:30:52] Server listening on port 9090
+[2025-06-02 16:30:59] Received client's DH public key and established shared secret with 127.0.0.1:56051
+[2025-06-02 16:30:59] Sent server's DH public key to 127.0.0.1:56051
+[2025-06-02 16:30:59] Received IV from 127.0.0.1:56051
+[2025-06-02 16:30:59] Sent authentication challenge to 127.0.0.1:56051
+[2025-06-02 16:30:59] Two-way authentication successful for 127.0.0.1:56051. Awaiting credentials.
+[2025-06-02 16:31:05] User signed in: eren from 127.0.0.1:56051
+[2025-06-02 16:31:05] Decryption failed for message from 127.0.0.1:56051
+[2025-06-02 16:31:05] GREETING from eren
+[2025-06-02 16:34:37] Server listening on port 9090
+[2025-06-02 16:34:40] DEBUG: Cleaned up existing state for reconnecting client: 127.0.0.1:52357
+[2025-06-02 16:34:40] Received client's DH public key and established shared secret with 127.0.0.1:52357
+[2025-06-02 16:34:40] Sent server's DH public key to 127.0.0.1:52357
+[2025-06-02 16:34:40] Received IV from 127.0.0.1:52357
+[2025-06-02 16:34:40] Sent authentication challenge to 127.0.0.1:52357
+[2025-06-02 16:34:40] Two-way authentication successful for 127.0.0.1:52357. Awaiting credentials.
+[2025-06-02 16:34:45] User signed in: eren from 127.0.0.1:52357
+[2025-06-02 16:34:45] Decryption failed for message from 127.0.0.1:52357
+[2025-06-02 16:34:45] GREETING from eren
+[2025-06-02 16:36:18] Server listening on port 9090
+[2025-06-02 16:36:21] Received client's DH public key and established shared secret with 127.0.0.1:54374
+[2025-06-02 16:36:21] Sent server's DH public key to 127.0.0.1:54374
+[2025-06-02 16:36:21] Received IV from 127.0.0.1:54374
+[2025-06-02 16:36:21] Sent authentication challenge to 127.0.0.1:54374
+[2025-06-02 16:36:21] Two-way authentication successful for 127.0.0.1:54374. Awaiting credentials.
+[2025-06-02 16:36:25] User signed in: eren from 127.0.0.1:54374
+[2025-06-02 16:36:25] Decryption failed for message from 127.0.0.1:54374
+[2025-06-02 16:36:25] GREETING from eren
+[2025-06-02 16:37:42] Server listening on port 9090
+[2025-06-02 16:37:45] Received client's DH public key and established shared secret with 127.0.0.1:63623
+[2025-06-02 16:37:45] Sent server's DH public key to 127.0.0.1:63623
+[2025-06-02 16:37:45] Received IV from 127.0.0.1:63623
+[2025-06-02 16:37:45] Sent authentication challenge to 127.0.0.1:63623
+[2025-06-02 16:37:45] Two-way authentication successful for 127.0.0.1:63623. Awaiting credentials.
+[2025-06-02 16:37:50] User signed in: eren from 127.0.0.1:63623
+[2025-06-02 16:37:50] Registered public keys for user eren
+[2025-06-02 16:37:50] GREETING from eren
+[2025-06-02 16:38:20] Received client's DH public key and established shared secret with 127.0.0.1:54904
+[2025-06-02 16:38:20] Sent server's DH public key to 127.0.0.1:54904
+[2025-06-02 16:38:20] Received IV from 127.0.0.1:54904
+[2025-06-02 16:38:20] Sent authentication challenge to 127.0.0.1:54904
+[2025-06-02 16:38:20] Two-way authentication successful for 127.0.0.1:54904. Awaiting credentials.
+[2025-06-02 16:38:27] User signed in: hilal from 127.0.0.1:54904
+[2025-06-02 16:38:27] Sent key bundle for eren to hilal
+[2025-06-02 16:38:27] Registered public keys for user hilal
+[2025-06-02 16:38:27] Notified eren about new user hilal
+[2025-06-02 16:38:27] GREETING from hilal
+[2025-06-02 16:38:39] Forwarded signal message from eren to hilal
+[2025-06-02 16:39:34] Received client's DH public key and established shared secret with 127.0.0.1:49724
+[2025-06-02 16:39:34] Sent server's DH public key to 127.0.0.1:49724
+[2025-06-02 16:39:34] Received IV from 127.0.0.1:49724
+[2025-06-02 16:39:34] Sent authentication challenge to 127.0.0.1:49724
+[2025-06-02 16:39:34] Two-way authentication successful for 127.0.0.1:49724. Awaiting credentials.
+[2025-06-02 16:39:40] User signed in: ceren from 127.0.0.1:49724
+[2025-06-02 16:39:40] Sent key bundle for eren to ceren
+[2025-06-02 16:39:40] Sent key bundle for hilal to ceren
+[2025-06-02 16:39:40] Registered public keys for user ceren
+[2025-06-02 16:39:40] Notified eren about new user ceren
+[2025-06-02 16:39:40] Notified hilal about new user ceren
+[2025-06-02 16:39:40] GREETING from ceren
+[2025-06-02 16:39:49] Server listening on port 9090
+[2025-06-02 16:39:52] Received client's DH public key and established shared secret with 127.0.0.1:57085
+[2025-06-02 16:39:52] Sent server's DH public key to 127.0.0.1:57085
+[2025-06-02 16:39:52] Received IV from 127.0.0.1:57085
+[2025-06-02 16:39:52] Sent authentication challenge to 127.0.0.1:57085
+[2025-06-02 16:39:52] Two-way authentication successful for 127.0.0.1:57085. Awaiting credentials.
+[2025-06-02 16:39:57] Loaded public keys for user: eren
+[2025-06-02 16:39:57] User signed in: eren from 127.0.0.1:57085
+[2025-06-02 16:39:57] Sent key bundle for ceren to eren
+[2025-06-02 16:39:57] Sent key bundle for hilal to eren
+[2025-06-02 16:39:57] Registered public keys for user eren
+[2025-06-02 16:39:57] GREETING from eren
+[2025-06-02 16:40:08] Saved offline message from eren to hilal
+[2025-06-02 16:40:08] Recipient hilal offline, saved message for later delivery
+[2025-06-02 16:40:15] Received client's DH public key and established shared secret with 127.0.0.1:57963
+[2025-06-02 16:40:15] Sent server's DH public key to 127.0.0.1:57963
+[2025-06-02 16:40:15] Received IV from 127.0.0.1:57963
+[2025-06-02 16:40:15] Sent authentication challenge to 127.0.0.1:57963
+[2025-06-02 16:40:15] Two-way authentication successful for 127.0.0.1:57963. Awaiting credentials.
+[2025-06-02 16:40:23] Loaded public keys for user: hilal
+[2025-06-02 16:40:23] User signed in: hilal from 127.0.0.1:57963
+[2025-06-02 16:40:23] Sent key bundle for eren to hilal
+[2025-06-02 16:40:23] Sent key bundle for ceren to hilal
+[2025-06-02 16:40:23] Delivered offline message from eren to hilal
+[2025-06-02 16:40:23] Registered public keys for user hilal
+[2025-06-02 16:40:23] Notified eren about new user hilal
+[2025-06-02 16:40:23] GREETING from hilal
+[2025-06-02 16:42:33] Saved offline message from eren to ceren
+[2025-06-02 16:42:33] Recipient ceren offline, saved message for later delivery
+[2025-06-02 16:42:36] Received client's DH public key and established shared secret with 127.0.0.1:59613
+[2025-06-02 16:42:36] Sent server's DH public key to 127.0.0.1:59613
+[2025-06-02 16:42:36] Received IV from 127.0.0.1:59613
+[2025-06-02 16:42:36] Sent authentication challenge to 127.0.0.1:59613
+[2025-06-02 16:42:36] Two-way authentication successful for 127.0.0.1:59613. Awaiting credentials.
+[2025-06-02 16:42:42] Loaded public keys for user: ceren
+[2025-06-02 16:42:42] User signed in: ceren from 127.0.0.1:59613
+[2025-06-02 16:42:42] Sent key bundle for eren to ceren
+[2025-06-02 16:42:42] Sent key bundle for hilal to ceren
+[2025-06-02 16:42:42] Delivered offline message from eren to ceren
+[2025-06-02 16:42:42] Registered public keys for user ceren
+[2025-06-02 16:42:42] Notified hilal about new user ceren
+[2025-06-02 16:42:42] Notified eren about new user ceren
+[2025-06-02 16:42:42] GREETING from ceren
+[2025-06-02 16:54:06] Server listening on port 9090
+[2025-06-02 16:54:09] Received client's DH public key and established shared secret with 127.0.0.1:57268
+[2025-06-02 16:54:09] Sent server's DH public key to 127.0.0.1:57268
+[2025-06-02 16:54:09] Received IV from 127.0.0.1:57268
+[2025-06-02 16:54:09] Sent authentication challenge to 127.0.0.1:57268
+[2025-06-02 16:54:09] Two-way authentication successful for 127.0.0.1:57268. Awaiting credentials.
+[2025-06-02 16:54:14] Loaded public keys for user: eren
+[2025-06-02 16:54:14] User signed in: eren from 127.0.0.1:57268
+[2025-06-02 16:54:14] Sent key bundle for ceren to eren
+[2025-06-02 16:54:14] Sent key bundle for hilal to eren
+[2025-06-02 16:54:14] Error delivering offline messages: [SQLITE_ERROR] SQL error or missing database (no such column: dh_public_key)
+[2025-06-02 16:54:14] Registered public keys for user eren
+[2025-06-02 16:54:14] GREETING from eren
+[2025-06-02 16:54:27] Error saving offline message: [SQLITE_ERROR] SQL error or missing database (table offline_messages has no column named dh_public_key)
+[2025-06-02 16:54:40] Received client's DH public key and established shared secret with 127.0.0.1:62606
+[2025-06-02 16:54:40] Sent server's DH public key to 127.0.0.1:62606
+[2025-06-02 16:54:40] Received IV from 127.0.0.1:62606
+[2025-06-02 16:54:40] Sent authentication challenge to 127.0.0.1:62606
+[2025-06-02 16:54:40] Two-way authentication successful for 127.0.0.1:62606. Awaiting credentials.
+[2025-06-02 16:54:46] Loaded public keys for user: ceren
+[2025-06-02 16:54:46] User signed in: ceren from 127.0.0.1:62606
+[2025-06-02 16:54:46] Sent key bundle for eren to ceren
+[2025-06-02 16:54:46] Sent key bundle for hilal to ceren
+[2025-06-02 16:54:46] Error delivering offline messages: [SQLITE_ERROR] SQL error or missing database (no such column: dh_public_key)
+[2025-06-02 16:54:46] Registered public keys for user ceren
+[2025-06-02 16:54:46] Notified eren about new user ceren
+[2025-06-02 16:54:46] GREETING from ceren
+[2025-06-02 16:54:48] Broadcast sent from ceren: hi
+[2025-06-02 16:54:52] Forwarded double ratchet message from ceren to eren
+[2025-06-02 16:55:04] Received client's DH public key and established shared secret with 127.0.0.1:58342
+[2025-06-02 16:55:04] Sent server's DH public key to 127.0.0.1:58342
+[2025-06-02 16:55:04] Received IV from 127.0.0.1:58342
+[2025-06-02 16:55:04] Sent authentication challenge to 127.0.0.1:58342
+[2025-06-02 16:55:04] Two-way authentication successful for 127.0.0.1:58342. Awaiting credentials.
+[2025-06-02 16:55:12] Loaded public keys for user: hilal
+[2025-06-02 16:55:12] User signed in: hilal from 127.0.0.1:58342
+[2025-06-02 16:55:12] Sent key bundle for eren to hilal
+[2025-06-02 16:55:12] Sent key bundle for ceren to hilal
+[2025-06-02 16:55:12] Error delivering offline messages: [SQLITE_ERROR] SQL error or missing database (no such column: dh_public_key)
+[2025-06-02 16:55:12] Registered public keys for user hilal
+[2025-06-02 16:55:12] Notified eren about new user hilal
+[2025-06-02 16:55:12] Notified ceren about new user hilal
+[2025-06-02 16:55:12] GREETING from hilal
+[2025-06-02 16:55:15] Broadcast sent from hilal: hi
+[2025-06-02 16:55:19] Forwarded double ratchet message from hilal to eren
+[2025-06-02 16:55:37] Forwarded double ratchet message from hilal to eren
+[2025-06-02 16:55:42] Forwarded double ratchet message from hilal to ceren
+[2025-06-02 16:59:35] Server listening on port 9090
+[2025-06-02 16:59:38] Received client's DH public key and established shared secret with 127.0.0.1:63841
+[2025-06-02 16:59:38] Sent server's DH public key to 127.0.0.1:63841
+[2025-06-02 16:59:38] Received IV from 127.0.0.1:63841
+[2025-06-02 16:59:38] Sent authentication challenge to 127.0.0.1:63841
+[2025-06-02 16:59:38] Two-way authentication successful for 127.0.0.1:63841. Awaiting credentials.
+[2025-06-02 16:59:42] SIGNIN FAIL (no such user): eren
+[2025-06-02 16:59:50] User signed up: eren from 127.0.0.1:63841
+[2025-06-02 16:59:50] Registered public keys for user eren
+[2025-06-02 16:59:50] GREETING from eren
+[2025-06-02 16:59:59] Received client's DH public key and established shared secret with 127.0.0.1:50158
+[2025-06-02 16:59:59] Sent server's DH public key to 127.0.0.1:50158
+[2025-06-02 16:59:59] Received IV from 127.0.0.1:50158
+[2025-06-02 16:59:59] Sent authentication challenge to 127.0.0.1:50158
+[2025-06-02 16:59:59] Two-way authentication successful for 127.0.0.1:50158. Awaiting credentials.
+[2025-06-02 17:00:15] User signed up: hilal from 127.0.0.1:50158
+[2025-06-02 17:00:15] Registered public keys for user hilal
+[2025-06-02 17:00:15] Notified eren about new user hilal
+[2025-06-02 17:00:15] GREETING from hilal
+[2025-06-02 17:00:42] Received client's DH public key and established shared secret with 127.0.0.1:56204
+[2025-06-02 17:00:42] Sent server's DH public key to 127.0.0.1:56204
+[2025-06-02 17:00:42] Received IV from 127.0.0.1:56204
+[2025-06-02 17:00:42] Sent authentication challenge to 127.0.0.1:56204
+[2025-06-02 17:00:42] Two-way authentication successful for 127.0.0.1:56204. Awaiting credentials.
+[2025-06-02 17:00:48] User signed up: ceren from 127.0.0.1:56204
+[2025-06-02 17:00:48] Registered public keys for user ceren
+[2025-06-02 17:00:48] Notified hilal about new user ceren
+[2025-06-02 17:00:48] Notified eren about new user ceren
+[2025-06-02 17:00:48] GREETING from ceren
+[2025-06-02 17:00:52] Broadcast sent from hilal: hi
+[2025-06-02 17:00:57] Forwarded double ratchet message from hilal to ceren
+[2025-06-02 17:01:37] Server listening on port 9090
+[2025-06-02 17:01:39] Received client's DH public key and established shared secret with 127.0.0.1:52907
+[2025-06-02 17:01:39] Sent server's DH public key to 127.0.0.1:52907
+[2025-06-02 17:01:39] Received IV from 127.0.0.1:52907
+[2025-06-02 17:01:39] Sent authentication challenge to 127.0.0.1:52907
+[2025-06-02 17:01:39] Two-way authentication successful for 127.0.0.1:52907. Awaiting credentials.
+[2025-06-02 17:01:45] Loaded public keys for user: eren
+[2025-06-02 17:01:45] User signed in: eren from 127.0.0.1:52907
+[2025-06-02 17:01:45] Sent key bundle for ceren to eren
+[2025-06-02 17:01:45] Sent key bundle for hilal to eren
+[2025-06-02 17:01:45] Registered public keys for user eren
+[2025-06-02 17:01:45] GREETING from eren
+[2025-06-02 17:01:51] Saved offline double ratchet message from eren to hilal
+[2025-06-02 17:01:51] Recipient hilal offline, saved double ratchet message for later delivery
+[2025-06-02 17:01:58] Received client's DH public key and established shared secret with 127.0.0.1:64443
+[2025-06-02 17:01:58] Sent server's DH public key to 127.0.0.1:64443
+[2025-06-02 17:01:58] Received IV from 127.0.0.1:64443
+[2025-06-02 17:01:58] Sent authentication challenge to 127.0.0.1:64443
+[2025-06-02 17:01:58] Two-way authentication successful for 127.0.0.1:64443. Awaiting credentials.
+[2025-06-02 17:02:04] Loaded public keys for user: hilal
+[2025-06-02 17:02:04] User signed in: hilal from 127.0.0.1:64443
+[2025-06-02 17:02:04] Sent key bundle for eren to hilal
+[2025-06-02 17:02:04] Sent key bundle for ceren to hilal
+[2025-06-02 17:02:04] Delivered offline double ratchet message from eren to hilal
+[2025-06-02 17:02:04] Registered public keys for user hilal
+[2025-06-02 17:02:04] Notified eren about new user hilal
+[2025-06-02 17:02:04] GREETING from hilal
+[2025-06-02 17:02:16] Saved offline double ratchet message from eren to ceren
+[2025-06-02 17:02:16] Recipient ceren offline, saved double ratchet message for later delivery
+[2025-06-02 17:02:19] Received client's DH public key and established shared secret with 127.0.0.1:61621
+[2025-06-02 17:02:19] Sent server's DH public key to 127.0.0.1:61621
+[2025-06-02 17:02:19] Received IV from 127.0.0.1:61621
+[2025-06-02 17:02:19] Sent authentication challenge to 127.0.0.1:61621
+[2025-06-02 17:02:19] Two-way authentication successful for 127.0.0.1:61621. Awaiting credentials.
+[2025-06-02 17:02:24] Loaded public keys for user: ceren
+[2025-06-02 17:02:24] User signed in: ceren from 127.0.0.1:61621
+[2025-06-02 17:02:24] Sent key bundle for eren to ceren
+[2025-06-02 17:02:24] Sent key bundle for hilal to ceren
+[2025-06-02 17:02:24] Delivered offline double ratchet message from eren to ceren
+[2025-06-02 17:02:24] Registered public keys for user ceren
+[2025-06-02 17:02:24] Notified hilal about new user ceren
+[2025-06-02 17:02:24] Notified eren about new user ceren
+[2025-06-02 17:02:24] GREETING from ceren
+[2025-06-02 17:11:13] Broadcast sent from ceren: hi
+[2025-06-02 17:11:19] Forwarded double ratchet message from ceren to eren
+[2025-06-02 17:12:57] Received client's DH public key and established shared secret with 127.0.0.1:58254
+[2025-06-02 17:12:57] Sent server's DH public key to 127.0.0.1:58254
+[2025-06-02 17:12:57] Received IV from 127.0.0.1:58254
+[2025-06-02 17:12:57] Sent authentication challenge to 127.0.0.1:58254
+[2025-06-02 17:12:57] Two-way authentication successful for 127.0.0.1:58254. Awaiting credentials.
+[2025-06-02 17:13:12] Loaded public keys for user: hilal
+[2025-06-02 17:13:12] User signed in: hilal from 127.0.0.1:58254
+[2025-06-02 17:13:12] Sent key bundle for eren to hilal
+[2025-06-02 17:13:12] Sent key bundle for ceren to hilal
+[2025-06-02 17:13:12] Registered public keys for user hilal
+[2025-06-02 17:13:12] Notified ceren about new user hilal
+[2025-06-02 17:13:12] Notified eren about new user hilal
+[2025-06-02 17:13:12] GREETING from hilal
+[2025-06-02 17:13:29] Forwarded double ratchet message from eren to hilal
+[2025-06-02 17:13:49] Forwarded double ratchet message from eren to hilal
+[2025-06-02 17:13:53] Received client's DH public key and established shared secret with 127.0.0.1:56964
+[2025-06-02 17:13:53] Sent server's DH public key to 127.0.0.1:56964
+[2025-06-02 17:13:53] Received IV from 127.0.0.1:56964
+[2025-06-02 17:13:53] Sent authentication challenge to 127.0.0.1:56964
+[2025-06-02 17:13:53] Two-way authentication successful for 127.0.0.1:56964. Awaiting credentials.
+[2025-06-02 17:13:58] Loaded public keys for user: hilal
+[2025-06-02 17:13:58] User signed in: hilal from 127.0.0.1:56964
+[2025-06-02 17:13:58] Sent key bundle for eren to hilal
+[2025-06-02 17:13:58] Sent key bundle for ceren to hilal
+[2025-06-02 17:13:58] Registered public keys for user hilal
+[2025-06-02 17:13:58] Notified ceren about new user hilal
+[2025-06-02 17:13:58] Notified eren about new user hilal
+[2025-06-02 17:13:58] GREETING from hilal
+[2025-06-02 18:00:22] Server listening on port 9090
+[2025-06-02 18:00:24] Received client's DH public key and established shared secret with 127.0.0.1:52439
+[2025-06-02 18:00:24] Sent server's DH public key to 127.0.0.1:52439
+[2025-06-02 18:00:24] Received IV from 127.0.0.1:52439
+[2025-06-02 18:00:24] Sent authentication challenge to 127.0.0.1:52439
+[2025-06-02 18:00:24] Two-way authentication successful for 127.0.0.1:52439. Awaiting credentials.
+[2025-06-02 18:00:29] Loaded public keys for user: eren
+[2025-06-02 18:00:29] User signed in: eren from 127.0.0.1:52439
+[2025-06-02 18:00:29] Sent key bundle for ceren to eren
+[2025-06-02 18:00:29] Sent key bundle for hilal to eren
+[2025-06-02 18:00:29] Signed pre-key signature verification: SUCCESS
+[2025-06-02 18:00:29] Registered public keys for user eren (signature verified)
+[2025-06-02 18:00:29] GREETING from eren
+[2025-06-02 18:00:41] Received client's DH public key and established shared secret with 127.0.0.1:58643
+[2025-06-02 18:00:41] Sent server's DH public key to 127.0.0.1:58643
+[2025-06-02 18:00:41] Received IV from 127.0.0.1:58643
+[2025-06-02 18:00:41] Sent authentication challenge to 127.0.0.1:58643
+[2025-06-02 18:00:41] Two-way authentication successful for 127.0.0.1:58643. Awaiting credentials.
+[2025-06-02 18:00:57] Loaded public keys for user: ceren
+[2025-06-02 18:00:57] User signed in: ceren from 127.0.0.1:58643
+[2025-06-02 18:00:57] Sent key bundle for eren to ceren
+[2025-06-02 18:00:57] Sent key bundle for hilal to ceren
+[2025-06-02 18:00:57] Signed pre-key signature verification: SUCCESS
+[2025-06-02 18:00:57] Registered public keys for user ceren (signature verified)
+[2025-06-02 18:00:57] Notified eren about new user ceren
+[2025-06-02 18:00:57] GREETING from ceren
+[2025-06-02 18:01:08] Forwarded double ratchet message from eren to ceren
+[2025-06-02 18:01:28] Received client's DH public key and established shared secret with 127.0.0.1:50458
+[2025-06-02 18:01:28] Sent server's DH public key to 127.0.0.1:50458
+[2025-06-02 18:01:28] Received IV from 127.0.0.1:50458
+[2025-06-02 18:01:28] Sent authentication challenge to 127.0.0.1:50458
+[2025-06-02 18:01:28] Two-way authentication successful for 127.0.0.1:50458. Awaiting credentials.
+[2025-06-02 18:01:35] Loaded public keys for user: hilal
+[2025-06-02 18:01:35] User signed in: hilal from 127.0.0.1:50458
+[2025-06-02 18:01:35] Sent key bundle for eren to hilal
+[2025-06-02 18:01:35] Sent key bundle for ceren to hilal
+[2025-06-02 18:01:35] Signed pre-key signature verification: SUCCESS
+[2025-06-02 18:01:35] Registered public keys for user hilal (signature verified)
+[2025-06-02 18:01:35] Notified ceren about new user hilal
+[2025-06-02 18:01:35] Notified eren about new user hilal
+[2025-06-02 18:01:35] GREETING from hilal
+[2025-06-02 18:01:42] Forwarded double ratchet message from eren to hilal
+[2025-06-02 18:01:59] Server listening on port 9090
+[2025-06-02 18:02:01] Received client's DH public key and established shared secret with 127.0.0.1:57987
+[2025-06-02 18:02:01] Sent server's DH public key to 127.0.0.1:57987
+[2025-06-02 18:02:01] Received IV from 127.0.0.1:57987
+[2025-06-02 18:02:01] Sent authentication challenge to 127.0.0.1:57987
+[2025-06-02 18:02:01] Two-way authentication successful for 127.0.0.1:57987. Awaiting credentials.
+[2025-06-02 18:02:05] Loaded public keys for user: eren
+[2025-06-02 18:02:05] User signed in: eren from 127.0.0.1:57987
+[2025-06-02 18:02:05] Sent key bundle for ceren to eren
+[2025-06-02 18:02:05] Sent key bundle for hilal to eren
+[2025-06-02 18:02:05] Signed pre-key signature verification: SUCCESS
+[2025-06-02 18:02:05] Registered public keys for user eren (signature verified)
+[2025-06-02 18:02:05] GREETING from eren
+[2025-06-02 18:02:14] Saved offline double ratchet message from eren to hilal
+[2025-06-02 18:02:14] Recipient hilal offline, saved double ratchet message for later delivery
+[2025-06-02 18:02:30] Received client's DH public key and established shared secret with 127.0.0.1:53713
+[2025-06-02 18:02:30] Sent server's DH public key to 127.0.0.1:53713
+[2025-06-02 18:02:30] Received IV from 127.0.0.1:53713
+[2025-06-02 18:02:30] Sent authentication challenge to 127.0.0.1:53713
+[2025-06-02 18:02:30] Two-way authentication successful for 127.0.0.1:53713. Awaiting credentials.
+[2025-06-02 18:02:37] Loaded public keys for user: hilal
+[2025-06-02 18:02:37] User signed in: hilal from 127.0.0.1:53713
+[2025-06-02 18:02:37] Sent key bundle for eren to hilal
+[2025-06-02 18:02:37] Sent key bundle for ceren to hilal
+[2025-06-02 18:02:37] Delivered offline double ratchet message from eren to hilal
+[2025-06-02 18:02:37] Signed pre-key signature verification: SUCCESS
+[2025-06-02 18:02:37] Registered public keys for user hilal (signature verified)
+[2025-06-02 18:02:37] Notified eren about new user hilal
+[2025-06-02 18:02:37] GREETING from hilal
+[2025-06-02 22:04:39] Broadcast sent from hilal: hi
+[2025-06-02 22:05:19] Received client's DH public key and established shared secret with 127.0.0.1:64403
+[2025-06-02 22:05:19] Sent server's DH public key to 127.0.0.1:64403
+[2025-06-02 22:05:19] Received IV from 127.0.0.1:64403
+[2025-06-02 22:05:19] Sent authentication challenge to 127.0.0.1:64403
+[2025-06-02 22:05:19] Two-way authentication successful for 127.0.0.1:64403. Awaiting credentials.
+[2025-06-02 22:05:29] Loaded public keys for user: ceren
+[2025-06-02 22:05:29] User signed in: ceren from 127.0.0.1:64403
+[2025-06-02 22:05:29] Sent key bundle for eren to ceren
+[2025-06-02 22:05:29] Sent key bundle for hilal to ceren
+[2025-06-02 22:05:29] Signed pre-key signature verification: SUCCESS
+[2025-06-02 22:05:29] Registered public keys for user ceren (signature verified)
+[2025-06-02 22:05:29] Notified hilal about new user ceren
+[2025-06-02 22:05:29] Notified eren about new user ceren
+[2025-06-02 22:05:29] GREETING from ceren
+[2025-06-02 22:08:16] Forwarded double ratchet message from eren to ceren
+[2025-06-02 22:08:18] Broadcast sent from eren: hi
+[2025-06-02 22:23:51] Server listening on port 9090
+[2025-06-02 22:23:54] Received client's DH public key and established shared secret with 127.0.0.1:52765
+[2025-06-02 22:23:54] Sent server's DH public key to 127.0.0.1:52765
+[2025-06-02 22:23:54] Received IV from 127.0.0.1:52765
+[2025-06-02 22:23:54] Sent authentication challenge to 127.0.0.1:52765
+[2025-06-02 22:23:54] Two-way authentication successful for 127.0.0.1:52765. Awaiting credentials.
+[2025-06-02 22:23:59] Loaded public keys for user: eren
+[2025-06-02 22:23:59] User signed in: eren from 127.0.0.1:52765
+[2025-06-02 22:23:59] Sent key bundle for ceren to eren
+[2025-06-02 22:23:59] Sent key bundle for hilal to eren
+[2025-06-02 22:23:59] Signed pre-key signature verification: SUCCESS
+[2025-06-02 22:23:59] Registered public keys for user eren (signature verified)
+[2025-06-02 22:23:59] Registered sender key for user eren
+[2025-06-02 22:23:59] GREETING from eren
+[2025-06-02 22:24:14] Saved offline double ratchet message from eren to hilal
+[2025-06-02 22:24:14] Recipient hilal offline, saved double ratchet message for later delivery
+[2025-06-02 22:24:18] Received client's DH public key and established shared secret with 127.0.0.1:55618
+[2025-06-02 22:24:18] Sent server's DH public key to 127.0.0.1:55618
+[2025-06-02 22:24:18] Received IV from 127.0.0.1:55618
+[2025-06-02 22:24:18] Sent authentication challenge to 127.0.0.1:55618
+[2025-06-02 22:24:18] Two-way authentication successful for 127.0.0.1:55618. Awaiting credentials.
+[2025-06-02 22:24:27] Loaded public keys for user: hilal
+[2025-06-02 22:24:27] User signed in: hilal from 127.0.0.1:55618
+[2025-06-02 22:24:27] Sent key bundle for eren to hilal
+[2025-06-02 22:24:27] Sent key bundle for ceren to hilal
+[2025-06-02 22:24:27] Sent sender key for eren to hilal
+[2025-06-02 22:24:27] Delivered offline double ratchet message from eren to hilal
+[2025-06-02 22:24:27] Signed pre-key signature verification: SUCCESS
+[2025-06-02 22:24:27] Registered public keys for user hilal (signature verified)
+[2025-06-02 22:24:27] Notified eren about new user hilal
+[2025-06-02 22:24:27] Registered sender key for user hilal
+[2025-06-02 22:24:27] Notified eren about new sender key from hilal
+[2025-06-02 22:24:27] GREETING from hilal
+[2025-06-02 22:24:50] Saved offline double ratchet message from eren to ceren
+[2025-06-02 22:24:50] Recipient ceren offline, saved double ratchet message for later delivery
+[2025-06-02 22:24:52] Received client's DH public key and established shared secret with 127.0.0.1:57956
+[2025-06-02 22:24:52] Sent server's DH public key to 127.0.0.1:57956
+[2025-06-02 22:24:52] Received IV from 127.0.0.1:57956
+[2025-06-02 22:24:52] Sent authentication challenge to 127.0.0.1:57956
+[2025-06-02 22:24:52] Two-way authentication successful for 127.0.0.1:57956. Awaiting credentials.
+[2025-06-02 22:25:59] Loaded public keys for user: ceren
+[2025-06-02 22:25:59] User signed in: ceren from 127.0.0.1:57956
+[2025-06-02 22:25:59] Sent key bundle for eren to ceren
+[2025-06-02 22:25:59] Sent key bundle for hilal to ceren
+[2025-06-02 22:25:59] Sent sender key for eren to ceren
+[2025-06-02 22:25:59] Sent sender key for hilal to ceren
+[2025-06-02 22:25:59] Delivered offline double ratchet message from eren to ceren
+[2025-06-02 22:25:59] Signed pre-key signature verification: SUCCESS
+[2025-06-02 22:25:59] Registered public keys for user ceren (signature verified)
+[2025-06-02 22:25:59] Notified eren about new user ceren
+[2025-06-02 22:25:59] Notified hilal about new user ceren
+[2025-06-02 22:25:59] Registered sender key for user ceren
+[2025-06-02 22:25:59] Notified eren about new sender key from ceren
+[2025-06-02 22:25:59] Notified hilal about new sender key from ceren
+[2025-06-02 22:25:59] GREETING from ceren
+[2025-06-02 22:26:03] Received sender key broadcast from ceren (server cannot decrypt)
+[2025-06-02 22:26:03] Sender key broadcast forwarded from ceren to 2 recipients
+[2025-06-02 22:26:12] Received sender key broadcast from ceren (server cannot decrypt)
+[2025-06-02 22:26:12] Sender key broadcast forwarded from ceren to 2 recipients
+[2025-06-02 22:29:17] Received sender key broadcast from eren (server cannot decrypt)
+[2025-06-02 22:29:17] Sender key broadcast forwarded from eren to 2 recipients
+[2025-06-02 22:46:20] Server listening on port 9090
+[2025-06-02 22:46:22] Received client's DH public key and established shared secret with 127.0.0.1:53351
+[2025-06-02 22:46:22] Sent server's DH public key to 127.0.0.1:53351
+[2025-06-02 22:46:22] Received IV from 127.0.0.1:53351
+[2025-06-02 22:46:22] Sent authentication challenge to 127.0.0.1:53351
+[2025-06-02 22:46:22] Two-way authentication successful for 127.0.0.1:53351. Awaiting credentials.
+[2025-06-02 22:46:27] Loaded public keys for user: eren
+[2025-06-02 22:46:27] User signed in: eren from 127.0.0.1:53351
+[2025-06-02 22:46:27] Sent key bundle for ceren to eren
+[2025-06-02 22:46:27] Sent key bundle for hilal to eren
+[2025-06-02 22:46:27] Signed pre-key signature verification: SUCCESS
+[2025-06-02 22:46:27] Registered public keys for user eren (signature verified)
+[2025-06-02 22:46:27] GREETING from eren
+[2025-06-02 22:46:36] Saved offline double ratchet message from eren to hilal
+[2025-06-02 22:46:36] Recipient hilal offline, saved double ratchet message for later delivery
+[2025-06-02 22:46:44] Saved offline double ratchet message from eren to ceren
+[2025-06-02 22:46:44] Recipient ceren offline, saved double ratchet message for later delivery
+[2025-06-02 22:46:48] Received client's DH public key and established shared secret with 127.0.0.1:54875
+[2025-06-02 22:46:48] Sent server's DH public key to 127.0.0.1:54875
+[2025-06-02 22:46:48] Received IV from 127.0.0.1:54875
+[2025-06-02 22:46:48] Sent authentication challenge to 127.0.0.1:54875
+[2025-06-02 22:46:48] Two-way authentication successful for 127.0.0.1:54875. Awaiting credentials.
+[2025-06-02 22:46:57] Loaded public keys for user: ceren
+[2025-06-02 22:46:57] User signed in: ceren from 127.0.0.1:54875
+[2025-06-02 22:46:57] Sent key bundle for eren to ceren
+[2025-06-02 22:46:57] Sent key bundle for hilal to ceren
+[2025-06-02 22:46:57] Delivered offline double ratchet message from eren to ceren
+[2025-06-02 22:46:57] Signed pre-key signature verification: SUCCESS
+[2025-06-02 22:46:57] Registered public keys for user ceren (signature verified)
+[2025-06-02 22:46:57] Notified eren about new user ceren
+[2025-06-02 22:46:57] GREETING from ceren
+[2025-06-02 22:47:02] Received client's DH public key and established shared secret with 127.0.0.1:63984
+[2025-06-02 22:47:02] Sent server's DH public key to 127.0.0.1:63984
+[2025-06-02 22:47:02] Received IV from 127.0.0.1:63984
+[2025-06-02 22:47:02] Sent authentication challenge to 127.0.0.1:63984
+[2025-06-02 22:47:02] Two-way authentication successful for 127.0.0.1:63984. Awaiting credentials.
+[2025-06-02 22:47:09] Loaded public keys for user: hilal
+[2025-06-02 22:47:09] User signed in: hilal from 127.0.0.1:63984
+[2025-06-02 22:47:09] Sent key bundle for eren to hilal
+[2025-06-02 22:47:09] Sent key bundle for ceren to hilal
+[2025-06-02 22:47:09] Delivered offline double ratchet message from eren to hilal
+[2025-06-02 22:47:09] Signed pre-key signature verification: SUCCESS
+[2025-06-02 22:47:09] Registered public keys for user hilal (signature verified)
+[2025-06-02 22:47:09] Notified ceren about new user hilal
+[2025-06-02 22:47:09] Notified eren about new user hilal
+[2025-06-02 22:47:09] GREETING from hilal
+[2025-06-02 22:47:12] Forwarded double ratchet message from ceren to eren
+[2025-06-02 22:47:12] Forwarded double ratchet message from ceren to hilal
+[2025-06-02 22:48:25] Forwarded double ratchet message from ceren to hilal
+[2025-06-02 22:48:32] Forwarded double ratchet message from ceren to eren
+[2025-06-02 22:48:32] Forwarded double ratchet message from ceren to hilal
+[2025-06-02 22:49:56] Forwarded double ratchet message from ceren to eren
+[2025-06-02 22:50:06] Forwarded double ratchet message from hilal to eren
+[2025-06-02 22:50:06] Forwarded double ratchet message from hilal to ceren
+[2025-06-02 22:53:28] Server listening on port 9090
+[2025-06-02 22:53:30] Received client's DH public key and established shared secret with 127.0.0.1:64834
+[2025-06-02 22:53:30] Sent server's DH public key to 127.0.0.1:64834
+[2025-06-02 22:53:30] Received IV from 127.0.0.1:64834
+[2025-06-02 22:53:30] Sent authentication challenge to 127.0.0.1:64834
+[2025-06-02 22:53:30] Two-way authentication successful for 127.0.0.1:64834. Awaiting credentials.
+[2025-06-02 22:53:35] Loaded public keys for user: eren
+[2025-06-02 22:53:35] User signed in: eren from 127.0.0.1:64834
+[2025-06-02 22:53:35] Sent key bundle for ceren to eren
+[2025-06-02 22:53:35] Sent key bundle for hilal to eren
+[2025-06-02 22:53:35] Signed pre-key signature verification: SUCCESS
+[2025-06-02 22:53:35] Registered public keys for user eren (signature verified)
+[2025-06-02 22:53:35] GREETING from eren
+[2025-06-02 22:53:45] Saved offline double ratchet message from eren to ceren
+[2025-06-02 22:53:45] Recipient ceren offline, saved double ratchet message for later delivery
+[2025-06-02 22:53:48] Received client's DH public key and established shared secret with 127.0.0.1:52235
+[2025-06-02 22:53:48] Sent server's DH public key to 127.0.0.1:52235
+[2025-06-02 22:53:48] Received IV from 127.0.0.1:52235
+[2025-06-02 22:53:48] Sent authentication challenge to 127.0.0.1:52235
+[2025-06-02 22:53:48] Two-way authentication successful for 127.0.0.1:52235. Awaiting credentials.
+[2025-06-02 22:53:54] Loaded public keys for user: ceren
+[2025-06-02 22:53:54] User signed in: ceren from 127.0.0.1:52235
+[2025-06-02 22:53:54] Sent key bundle for eren to ceren
+[2025-06-02 22:53:54] Sent key bundle for hilal to ceren
+[2025-06-02 22:53:54] Delivered offline double ratchet message from eren to ceren
+[2025-06-02 22:53:54] Signed pre-key signature verification: SUCCESS
+[2025-06-02 22:53:54] Registered public keys for user ceren (signature verified)
+[2025-06-02 22:53:54] Notified eren about new user ceren
+[2025-06-02 22:53:54] GREETING from ceren
+[2025-06-02 22:53:58] Received client's DH public key and established shared secret with 127.0.0.1:53434
+[2025-06-02 22:53:58] Sent server's DH public key to 127.0.0.1:53434
+[2025-06-02 22:53:58] Received IV from 127.0.0.1:53434
+[2025-06-02 22:53:58] Sent authentication challenge to 127.0.0.1:53434
+[2025-06-02 22:53:58] Two-way authentication successful for 127.0.0.1:53434. Awaiting credentials.
+[2025-06-02 22:54:05] Loaded public keys for user: hilal
+[2025-06-02 22:54:05] User signed in: hilal from 127.0.0.1:53434
+[2025-06-02 22:54:05] Sent key bundle for eren to hilal
+[2025-06-02 22:54:05] Sent key bundle for ceren to hilal
+[2025-06-02 22:54:05] Signed pre-key signature verification: SUCCESS
+[2025-06-02 22:54:05] Registered public keys for user hilal (signature verified)
+[2025-06-02 22:54:05] Notified eren about new user hilal
+[2025-06-02 22:54:05] Notified ceren about new user hilal
+[2025-06-02 22:54:05] GREETING from hilal
+[2025-06-02 22:54:08] Forwarded double ratchet message from hilal to eren
+[2025-06-02 22:54:08] Forwarded double ratchet message from hilal to ceren
+[2025-06-02 22:55:01] Forwarded double ratchet message from eren to ceren
+[2025-06-02 22:55:01] Forwarded double ratchet message from eren to hilal
+[2025-06-02 22:56:34] Server listening on port 9090
+[2025-06-02 22:56:36] Received message from unknown client or no session key: 127.0.0.1:64834 - tQC+kpKo0wmZCCmq1pWGuWBSjqn4S0aSgUwss7j84cRWWzpfiJbxmNvs581zl0NgsjKPxjMI3c+DXa69qWhlM3/im8X/Dj5ohN1O9qKB3+rR8T7C5/5mmM93Wr/a4f6RrHOMjxQEZqmTx8fW0GmG4qu2eKcUQEPZ6C4MCmRppJA4OoNTHhTX+UStJa+4onTaIC70KcY8pZRCYpeREDhmb8/pd7iHz9uMfe7fhq2pNsCoMRUg+b3ohbkXAgYnKjla62tw04WhU59dbROChv8DDQlSah3QL668bUtCwTBlrQg=
+[2025-06-02 22:56:36] Received message from unknown client or no session key: 127.0.0.1:64834 - tQC+kpKo0wmZCCmq1pWGuUh3Fx1yRruXQhOL09Tt725NCu8uNGFzwH7bVU1K0Z0s+fKx9nhCH9/y0LAuuhDrxefyoeTVIzKT60tU83RCyIFnvNV5Xn/C8zoOfYu01ZtCmv+sTkO4uIqSAKOqYRawv2T1ihIwH283Wlo5Sg66mi+D2DRqNaCxa6aCPEWC2NNthci30ZjZSzONiHBYWPnpQ4TydzEU8yMKyNRbMNTb4JsNqb8Urwjg81njGqO5hDxeMFCXsSx8I2Gp5kugun2G83D1AB5N1jf9XCyBRdQrGS0=
+[2025-06-02 22:56:51] Server listening on port 9090
+[2025-06-02 22:56:56] Received client's DH public key and established shared secret with 127.0.0.1:57624
+[2025-06-02 22:56:56] Sent server's DH public key to 127.0.0.1:57624
+[2025-06-02 22:56:56] Received IV from 127.0.0.1:57624
+[2025-06-02 22:56:56] Sent authentication challenge to 127.0.0.1:57624
+[2025-06-02 22:56:56] Two-way authentication successful for 127.0.0.1:57624. Awaiting credentials.
+[2025-06-02 22:57:00] Loaded public keys for user: eren
+[2025-06-02 22:57:00] User signed in: eren from 127.0.0.1:57624
+[2025-06-02 22:57:00] Sent key bundle for ceren to eren
+[2025-06-02 22:57:00] Sent key bundle for hilal to eren
+[2025-06-02 22:57:00] Signed pre-key signature verification: SUCCESS
+[2025-06-02 22:57:00] Registered public keys for user eren (signature verified)
+[2025-06-02 22:57:00] GREETING from eren
+[2025-06-02 22:57:04] Received client's DH public key and established shared secret with 127.0.0.1:65506
+[2025-06-02 22:57:04] Sent server's DH public key to 127.0.0.1:65506
+[2025-06-02 22:57:04] Received IV from 127.0.0.1:65506
+[2025-06-02 22:57:04] Sent authentication challenge to 127.0.0.1:65506
+[2025-06-02 22:57:04] Two-way authentication successful for 127.0.0.1:65506. Awaiting credentials.
+[2025-06-02 22:57:09] Loaded public keys for user: hilal
+[2025-06-02 22:57:09] User signed in: hilal from 127.0.0.1:65506
+[2025-06-02 22:57:09] Sent key bundle for eren to hilal
+[2025-06-02 22:57:09] Sent key bundle for ceren to hilal
+[2025-06-02 22:57:09] Signed pre-key signature verification: SUCCESS
+[2025-06-02 22:57:09] Registered public keys for user hilal (signature verified)
+[2025-06-02 22:57:09] Notified eren about new user hilal
+[2025-06-02 22:57:09] GREETING from hilal
+[2025-06-02 22:57:12] Received client's DH public key and established shared secret with 127.0.0.1:59641
+[2025-06-02 22:57:12] Sent server's DH public key to 127.0.0.1:59641
+[2025-06-02 22:57:12] Received IV from 127.0.0.1:59641
+[2025-06-02 22:57:12] Sent authentication challenge to 127.0.0.1:59641
+[2025-06-02 22:57:12] Two-way authentication successful for 127.0.0.1:59641. Awaiting credentials.
+[2025-06-02 22:57:17] Loaded public keys for user: ceren
+[2025-06-02 22:57:17] User signed in: ceren from 127.0.0.1:59641
+[2025-06-02 22:57:17] Sent key bundle for eren to ceren
+[2025-06-02 22:57:17] Sent key bundle for hilal to ceren
+[2025-06-02 22:57:17] Signed pre-key signature verification: SUCCESS
+[2025-06-02 22:57:17] Registered public keys for user ceren (signature verified)
+[2025-06-02 22:57:17] Notified hilal about new user ceren
+[2025-06-02 22:57:17] Notified eren about new user ceren
+[2025-06-02 22:57:17] GREETING from ceren
+[2025-06-02 22:57:24] Forwarded double ratchet message from eren to ceren
+[2025-06-02 22:57:24] Forwarded double ratchet message from eren to hilal
+[2025-06-02 22:57:34] Forwarded double ratchet message from eren to hilal
+[2025-06-02 22:58:01] Server listening on port 9090
+[2025-06-02 22:58:03] Received client's DH public key and established shared secret with 127.0.0.1:49973
+[2025-06-02 22:58:03] Sent server's DH public key to 127.0.0.1:49973
+[2025-06-02 22:58:03] Received IV from 127.0.0.1:49973
+[2025-06-02 22:58:03] Sent authentication challenge to 127.0.0.1:49973
+[2025-06-02 22:58:03] Two-way authentication successful for 127.0.0.1:49973. Awaiting credentials.
+[2025-06-02 22:58:08] Loaded public keys for user: eren
+[2025-06-02 22:58:08] User signed in: eren from 127.0.0.1:49973
+[2025-06-02 22:58:08] Sent key bundle for ceren to eren
+[2025-06-02 22:58:08] Sent key bundle for hilal to eren
+[2025-06-02 22:58:08] Signed pre-key signature verification: SUCCESS
+[2025-06-02 22:58:08] Registered public keys for user eren (signature verified)
+[2025-06-02 22:58:08] GREETING from eren
+[2025-06-02 22:58:18] Saved offline double ratchet message from eren to hilal
+[2025-06-02 22:58:18] Recipient hilal offline, saved double ratchet message for later delivery
+[2025-06-02 22:58:24] Received client's DH public key and established shared secret with 127.0.0.1:63583
+[2025-06-02 22:58:24] Sent server's DH public key to 127.0.0.1:63583
+[2025-06-02 22:58:24] Received IV from 127.0.0.1:63583
+[2025-06-02 22:58:24] Sent authentication challenge to 127.0.0.1:63583
+[2025-06-02 22:58:24] Two-way authentication successful for 127.0.0.1:63583. Awaiting credentials.
+[2025-06-02 22:58:30] Loaded public keys for user: hilal
+[2025-06-02 22:58:30] User signed in: hilal from 127.0.0.1:63583
+[2025-06-02 22:58:30] Sent key bundle for eren to hilal
+[2025-06-02 22:58:30] Sent key bundle for ceren to hilal
+[2025-06-02 22:58:30] Delivered offline double ratchet message from eren to hilal
+[2025-06-02 22:58:30] Signed pre-key signature verification: SUCCESS
+[2025-06-02 22:58:30] Registered public keys for user hilal (signature verified)
+[2025-06-02 22:58:30] Notified eren about new user hilal
+[2025-06-02 22:58:30] GREETING from hilal
