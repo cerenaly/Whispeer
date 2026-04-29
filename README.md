@@ -62,7 +62,7 @@ Whispeer is a secure, end-to-end encrypted messaging application implementing mo
 - Forward secrecy guaranteed
 
 🛡️ Security Highlights
-MITM protection via signature verification
-Forward secrecy (key rotation)
-No private key storage on server
-End-to-end encrypted communication
+-MITM protection via signature verification
+-Forward secrecy (key rotation)
+-No private key storage on server
+-End-to-end encrypted communication
